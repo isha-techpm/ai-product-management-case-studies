@@ -1,55 +1,85 @@
-# 🧠 AI Product Management Case Studies
+# 📊 Product Management Portfolio – Isha Jha
 
-Welcome to my portfolio of AI-focused product management case studies. As an aspiring **Associate Product Manager**, I created these projects to demonstrate my ability to identify business problems, define product vision, collaborate across teams, and manage risks — all while aligning AI capabilities with user and business needs.
+Welcome to my product management portfolio.  
+This repository highlights my work across **Product Requirement Documents (PRDs)**, **case studies**, and my professional resume.  
+It is designed to showcase my ability to identify problems, define product vision, collaborate cross-functionally, and deliver user-focused solutions.
 
 ---
 
-## 📂 Case Studies Overview
+## 📂 Folder Structure
+product-management-portfolio/
+│
+├── README.md                # Main overview of portfolio
+│
+├── PRDs/
+│   ├── Accredian_Community_Hub_Feature_Plan.pdf
+│   ├── DataSync_360_PRD_Professional_Final.pdf
+│   ├── Lappyy_PRD.pdf
+│   ├── Vendor_Verification_PRD.pdf
+│   └── README.md                # Main overview of prds
+│
+├── Resume/
+│   └── IshaJha_ProductManager_5YOE.pdf
+│
+└── CaseStudies/
+    ├── AI-Powered Checkout-Free Grocery Shopping System.pdf
+    ├── AI-Powered Smart Virtual Assistant.pdf
+    └── AI-Enhanced Traffic Management System.pdf
+    └── README.md                # Main overview of case stuies
 
-### 1. AI-Powered Checkout-Free Grocery Shopping System
-A retail innovation designed to eliminate checkout lines using AI-powered sensors and mobile integration.
 
-- **Problem:** Long wait times, high labor costs, poor inventory visibility  
-- **Solution:** Real-time item tracking, automatic billing, mobile app experience  
-- **Opportunities:** Faster shopping, lower costs, personalized offers  
-- **Risks & Mitigation:** Accuracy, privacy, and scalability addressed with model training and cloud infrastructure  
-- **Future Roadmap:** Loyalty program integration, expansion to convenience stores  
+---
 
-### 2. AI-Powered Smart Virtual Assistant for Enterprise Use
-An enterprise-grade assistant that automates employee support tasks and integrates with internal systems.
+## 🔹 PRDs
 
-- **Problem:** Manual workflows, overloaded support teams, scattered knowledge  
-- **Solution:** AI assistant for HR, IT, and CRM queries with secure access  
-- **Goals:** 100% adoption in 3 months, 98% accuracy, measurable cost savings  
-- **Risks & Mitigation:** Adoption resistance, bias, and privacy handled with training and audits  
-- **Future Roadmap:** Voice assistant integration, analytics dashboards  
+1. **Accredian Community Hub Feature Plan**  
+   - Created as part of an assessment.  
+   - **Skill Signal:** Shows ability to design engagement features, balance trade-offs (native vs. third-party), and structure community-driven product vision.  
 
-### 3. AI-Enhanced Traffic Management System
-A smart city solution that uses real-time data and predictive AI to reduce congestion and improve safety.
+2. **DataSync 360 – Product Requirements Document**  
+   - Conceptual idea developed while working as a Data Engineer.  
+   - **Skill Signal:** Demonstrates initiative in ideation, connecting technical pain points with business outcomes, and drafting measurable success metrics.  
 
-- **Problem:** Urban traffic delays, outdated monitoring, poor multimodal support  
-- **Solution:** Mobile-first platform with predictive routing and incident detection  
-- **Goals:** 200,000 users in 6 months, 75% ROI in Year 1  
-- **Risks & Mitigation:** Integration challenges, system accuracy, and compliance addressed with modular architecture  
-- **Future Roadmap:** Autonomous vehicle compatibility, expansion to other cities  
+3. **Lappyy.com PRD**  
+   - Freelance project where I handled usability, design, and Google Analytics.  
+   - **Skill Signal:** Highlights UX problem-solving, analytics-driven decision-making, and ability to deliver lean MVPs for real-world users.  
+
+4. **Vendor Verification & Admin Panel Optimization**  
+   - ERP system feature where I worked as Product Manager.  
+   - **Skill Signal:** Reflects end-to-end PM ownership — requirement gathering, workflow design, mobile-responsive UI, and measurable efficiency gains.  
+
+---
+
+## 🔹 Case Studies
+
+- **AI-Powered Checkout-Free Grocery Shopping System**  
+   - **Skill Signal:** Ability to analyze retail pain points and propose scalable AI-driven solutions.  
+
+- **AI-Powered Smart Virtual Assistant for Enterprise Use**  
+   - **Skill Signal:** Strong focus on adoption metrics, compliance, and enterprise integration.  
+
+- **AI-Enhanced Traffic Management System**  
+   - **Skill Signal:** Combines urban mobility challenges with predictive AI, ROI focus, and smart city vision.  
+
+---
+
+## 🔹 Resume
+
+- [Isha Jha – Associate Product Manager](./Resume/IshaJha_AssociateProductManager.pdf)
 
 ---
 
 ## 🎯 Why This Portfolio?
 
-These case studies reflect my:
-- 📌 Structured thinking and product strategy  
-- 🤝 Cross-functional collaboration mindset  
-- 📊 Data-driven decision-making approach  
-- 🚀 Passion for building scalable, AI-powered solutions  
-
-Though I’m early in my product management journey, I’m excited to bring curiosity, clarity, and execution to every challenge.
+- Demonstrates **hands-on product management experience** across assessments, freelance projects, and professional roles.  
+- Highlights **skills in usability, design, analytics, and cross-functional collaboration**.  
+- Showcases ability to **conceptualize ideas (DataSync 360)** and **deliver launched features (ERP Vendor Verification)**.  
 
 ---
 
-## 📬 Let’s Connect
+## 📬 Contact
 
 - **LinkedIn:** [isha-jha-85398892](https://www.linkedin.com/in/isha-jha-85398892/)  
-- **Email:** jhaisha995@gmail.com
+- **Email:** jhaisha995@gmail.com  
 
 ---
