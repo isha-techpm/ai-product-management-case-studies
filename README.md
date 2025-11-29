@@ -55,6 +55,20 @@ While these are not shipped products, they reflect how I think through complex p
 
 ---
 
+## 🔗 Related Product Work
+
+- **WhatsApp Product Improvements – PRDs**  
+  🔗 https://github.com/isha-techpm/product-prds-whatsapp  
+
+  A collection of PRDs focused on improving everyday WhatsApp usability and reducing chat clutter.
+
+  - **Chat Management Improvements:** Designed bulk chat actions and cross-device deletion sync for a consistent web and mobile experience  
+  - **Temporary Group Events:** Proposed auto-expiring event-based groups with RSVP, countdowns, and post-event summaries  
+
+  **Skills demonstrated:** Consumer product thinking, UX design, PRD writing, problem framing
+  
+---
+
 ## 🔹 Resume
 
 My resume outlines:
