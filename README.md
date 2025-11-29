@@ -55,6 +55,18 @@ While these are not shipped products, they reflect how I think through complex p
 
 ---
 
+## 🔹 Resume
+
+My resume outlines:
+
+* My professional journey across data, engineering, and product-adjacent roles
+* Increasing ownership of product responsibilities
+* Tools and skills that support strong collaboration with engineering and design teams
+
+👉 Available in **Resume/** folder.
+
+---
+
 ## 🔗 Related Product Work
 
  **📱 WhatsApp Product Improvements – PRDs**  
@@ -67,18 +79,6 @@ While these are not shipped products, they reflect how I think through complex p
 
   **Skills demonstrated:** Consumer product thinking, UX design, PRD writing, problem framing
   
----
-
-## 🔹 Resume
-
-My resume outlines:
-
-* My professional journey across data, engineering, and product-adjacent roles
-* Increasing ownership of product responsibilities
-* Tools and skills that support strong collaboration with engineering and design teams
-
-👉 Available in **Resume/** folder.
-
 ---
 
 ## 🎯 Why This Portfolio?
