@@ -1,6 +1,6 @@
-# 🧠 AI Product Management Case Studies
+# 🧠 Product Management Case Studies
 
-Welcome to my portfolio of AI-focused product management case studies. As an aspiring **Associate Product Manager**, I created these projects to demonstrate my ability to identify business problems, define product vision, collaborate across teams, and manage risks — all while aligning AI capabilities with user and business needs.
+Welcome to my portfolio of product management case studies. As an aspiring **Associate Product Manager**, I created these projects to demonstrate my ability to identify user and business problems, define product direction, think through trade-offs, and propose practical solutions grounded in real-world usage.
 
 ---
 
@@ -10,41 +10,56 @@ Welcome to my portfolio of AI-focused product management case studies. As an asp
 A retail innovation designed to eliminate checkout lines using AI-powered sensors and mobile integration.
 
 - **Problem:** Long wait times, high labor costs, poor inventory visibility  
-- **Solution:** Real-time item tracking, automatic billing, mobile app experience  
+- **Solution:** Real-time item tracking, automatic billing, seamless mobile app experience  
 - **Opportunities:** Faster shopping, lower costs, personalized offers  
-- **Risks & Mitigation:** Accuracy, privacy, and scalability addressed with model training and cloud infrastructure  
+- **Risks & Mitigation:** Accuracy, privacy, and scalability addressed through model training and cloud infrastructure  
 - **Future Roadmap:** Loyalty program integration, expansion to convenience stores  
 
-### 2. AI-Powered Smart Virtual Assistant for Enterprise Use
-An enterprise-grade assistant that automates employee support tasks and integrates with internal systems.
+---
 
-- **Problem:** Manual workflows, overloaded support teams, scattered knowledge  
-- **Solution:** AI assistant for HR, IT, and CRM queries with secure access  
-- **Goals:** 100% adoption in 3 months, 98% accuracy, measurable cost savings  
-- **Risks & Mitigation:** Adoption resistance, bias, and privacy handled with training and audits  
-- **Future Roadmap:** Voice assistant integration, analytics dashboards  
+### 2. AI-Powered Smart Virtual Assistant for Enterprise Use
+An enterprise assistant built to automate internal support tasks and reduce operational load.
+
+- **Problem:** Manual workflows, overloaded support teams, fragmented knowledge systems  
+- **Solution:** Secure AI assistant handling HR, IT, and CRM queries  
+- **Goals:** High adoption, improved accuracy, measurable support cost reduction  
+- **Risks & Mitigation:** Adoption resistance, bias, and privacy managed through training, audits, and access control  
+- **Future Roadmap:** Voice-based interactions, analytics dashboards  
+
+---
 
 ### 3. AI-Enhanced Traffic Management System
-A smart city solution that uses real-time data and predictive AI to reduce congestion and improve safety.
+A smart city solution using real-time data and predictive AI to improve traffic flow and safety.
 
-- **Problem:** Urban traffic delays, outdated monitoring, poor multimodal support  
-- **Solution:** Mobile-first platform with predictive routing and incident detection  
-- **Goals:** 200,000 users in 6 months, 75% ROI in Year 1  
-- **Risks & Mitigation:** Integration challenges, system accuracy, and compliance addressed with modular architecture  
-- **Future Roadmap:** Autonomous vehicle compatibility, expansion to other cities  
+- **Problem:** Urban congestion, outdated monitoring, limited real-time insights  
+- **Solution:** Predictive routing, incident detection, and mobile-first traffic insights  
+- **Goals:** Increased adoption, reduced congestion, strong ROI  
+- **Risks & Mitigation:** System accuracy, integrations, and compliance handled via modular design  
+- **Future Roadmap:** Autonomous vehicle readiness, expansion to additional cities  
+
+---
+
+### 4. Improving User Experience in Quick Commerce (Q-commerce) Apps
+A UX-focused case study based on real usage of **Blinkit, Zepto, and Instamart**, analyzing high-frequency consumer apps.
+
+- **Problem:** Stock mismatch at checkout, inability to modify placed orders, misleading cashback offers  
+- **Impact:** Cart abandonment, user frustration, trust erosion, potential churn  
+- **Solution:** Real-time inventory sync, short order-edit windows, transparent promotion communication  
+- **Metrics & Assumptions:** 5–10% cart drop-offs, 3–5% churn risk, higher impact on repeat users  
+- **PM Focus:** User empathy, journey optimization, prioritization, and trade-off analysis  
 
 ---
 
 ## 🎯 Why This Portfolio?
 
-These case studies reflect my:
-- 📌 Structured thinking and product strategy  
-- 🤝 Cross-functional collaboration mindset  
-- 📊 Data-driven decision-making approach  
-- 🚀 Passion for building scalable, AI-powered solutions  
+These case studies highlight my:
+- 📌 Structured and analytical thinking  
+- 🤝 User-first mindset and stakeholder awareness  
+- 📊 Comfort with metrics, assumptions, and impact analysis  
+- 🚀 Passion for building thoughtful, scalable products  
 
-Though I’m early in my product management journey, I’m excited to bring curiosity, clarity, and execution to every challenge.
+As I grow in my product management journey, this portfolio will continue to evolve with deeper insights and real-world execution.
 
 ---
 
-📌 *These Case Studies will continue to evolve as I gain more hands-on Product Management experience.*
+📌 *These case studies will continue to evolve as I gain more hands-on Product Management experience.*
