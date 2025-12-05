@@ -50,6 +50,15 @@ A UX-focused case study based on real usage of **Blinkit, Zepto, and Instamart**
 
 ---
 
+### 5. Improving Onboarding & Micro-UX in Zoho Arattai  
+A product-focused case study based on real onboarding and early usage of **Zoho Arattai**, an India-first team messaging application.
+
+- **Problem:** Default country code not localized for Indian users, inability to autofill saved phone numbers during sign-up, and layout overlap issues in the stickers panel when viewed in compact state  
+- **Impact:** Slower onboarding, increased user effort during sign-up, reduced perceived UI polish, and weaker first impressions for first-time users 
+- **Solution:** Region-aware defaults (preselect +91), tap-to-autofill for phone number entry, and improved responsive layout handling for partially expanded UI panels  
+
+---
+
 ## 🎯 Why This Portfolio?
 
 These case studies highlight my:
