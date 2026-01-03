@@ -89,7 +89,7 @@ My resume highlights:
 ## 🔗 Related Product Work
 
  **📱 WhatsApp Product Improvements – PRDs**  
-  🔗 https://github.com/isha-techpm/product-prds-whatsapp  
+  🔗 https://github.com/essha-jha/product-prds-whatsapp  
 
   A collection of PRDs focused on improving everyday WhatsApp usability and reducing chat clutter.
 
@@ -115,8 +115,8 @@ I am actively looking for opportunities where I can learn, execute, and contribu
 
 ## 📬 Contact
 
-* **LinkedIn:** [https://www.linkedin.com/in/isha-jha-85398892](https://www.linkedin.com/in/isha-jha-85398892)
-* **Email:** [jhaisha995@gmail.com](mailto:jhaisha995@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/essha-jha/](https://www.linkedin.com/in/essha-jha/)
+* **Email:** [esshajha55@gmail.com](mailto:esshajha55@gmail.com)
 
 ---
 
