@@ -115,7 +115,7 @@ Vendor onboarding was manual and time-consuming, causing delays and data inconsi
 **📦 Key Deliverables**
 
 * End-to-end workflow design
-* Clear success metrics для verification speed and accuracy
+* Clear success metrics for verification speed and accuracy
 * Risk and trade-off documentation
 
 **🎯 Skill Focus**
