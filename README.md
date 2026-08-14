@@ -1,4 +1,4 @@
-# 📊 Product Management Portfolio – Isha Jha
+# 📊 Product Management Portfolio – Essha Jha
 
 Welcome to my Product Management portfolio.
 
